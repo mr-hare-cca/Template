@@ -4,6 +4,7 @@
     ],
     "java.project.referencedLibraries": [
         "App/lib/**/*.jar",
-        "App/test-lib/**/*.jar"
-    ]
+        "App/test-lib/junit-platform-console-standalone-1.10.0.jar"
+        
+    ] 
 }
